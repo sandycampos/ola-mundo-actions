@@ -1,4 +1,4 @@
-name: Ola, Sandy!
+name: Ola, Mundo!
 
 on: [push]
 
@@ -11,4 +11,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Ola, Mundo!
-        run: echo "Ola, Mundo!"
+        run: echo "Ola, Sandy!"
